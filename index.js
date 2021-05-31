@@ -1,5 +1,8 @@
 // Add your doToElementsInArray() function here:
- function doToElementsInArray(){
+ function doToElementsInArray(array,callback){
+
+   const callback = function(fruit)
+ return `Mmmm, ${fruit}!!!`
 
 
  }
